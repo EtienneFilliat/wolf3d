@@ -15,7 +15,7 @@ Anti-Ghosting.
 Effet nuit.
 Création de cartes personnelles.
 
-USAGE:
+__USAGE:__
 ```shell
         ./Wolf3d [Map]
 ```
