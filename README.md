@@ -1,4 +1,4 @@
-# Wolf3d
+# Wolf3d Epitech Project
 
 Just a litle Wolf3d where you can toggle between Day mode and Night mode by using `h` and `j` key.
 
