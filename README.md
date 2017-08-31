@@ -9,7 +9,6 @@ __Note__ : 1.5 (Just a dumb SIGSEGV `[Patched]`)
 __KeyNote__:
 
 __Bonus__ (6 / 20) :
-Effort vestimentaire.
 Collisions.
 Anti-Ghosting.
 Effet nuit.
