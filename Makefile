@@ -34,7 +34,7 @@ SRCOBJ	=	$(SRC:.c=.o)
 all	:	$(NAME)
 
 $(NAME)	:	$(SRCOBJ)
-		$(CC) $(SRCOBJ) $(CFLAGS) -o $(NAME) -lc_graph_prog -lm
+		$(CC) $(SRCOBJ) $(CFLAGS) -o $(NAME) -lcsfml-graphics -lcsfml-window -lm
 
 clean	:
 		$(RM) $(SRCOBJ)
